@@ -1,4 +1,4 @@
-[En](/README.md)
+[En](/README.md) |[Ch](/README-CH.md)
 # 简介
 
 这是一个简单的小说爬虫项目。
