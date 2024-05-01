@@ -7,7 +7,7 @@ This is a simple novel crawler project.
 
 The purpose of this project is to train by crawling novels from novel websites. By running this project, novels can be downloaded into corresponding txt files. As this project is only for practice, specific website URLs and information about saving txt files need to be manually modified. However, implementing these modifications is quite simple. However, due to the different HTML structures of different websites, this crawler is limited to crawling novel content from "https://www.shuxiang8.cc" website.
 
-The example of crawling novels is in the file ["这游戏太真实了.txt"] (/这游戏太真实了.txt)within the project.
+The example of crawling novels is in the file [这游戏太真实了.txt](/这游戏太真实了.txt)within the project.
 
 ## Challenges
 
